@@ -1,4 +1,4 @@
-*my principle <b>"is to learn by doing"<b>*
+<b>*"my principle is to learn by doing"*</b>
 - 👋 Hi, I’m @camangli
 - 👀 I’m interested in everything i like
 - 🌱 I'm currently learning to be patient
