@@ -1,5 +1,5 @@
 # About Me
-[![CodeWars](https://www.codewars.com/users/camangli/badges/large)](https://www.codewars.com/users/camangli)
+[![CodeWars](https://www.codewars.com/users/camangli/badges/small)](https://www.codewars.com/users/camangli)
 
 <b>*"my principle is to learn by doing"*</b>
 - 👋 Hi, I’m @camangli
