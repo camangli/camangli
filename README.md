@@ -1,4 +1,5 @@
 # About Me
+[![CodeWars](https://www.codewars.com/users/camangli/badges/micro)]()
 
 <b>*"my principle is to learn by doing"*</b>
 - 👋 Hi, I’m @camangli
@@ -7,7 +8,6 @@
 
 "Just ignore me. There's nothing here"
 
-[![CodeWars](https://www.codewars.com/users/camangli/badges/micro)]()
 
 # Find Me
 - Twitter   : [@Camangli](https://twitter.com/camangli)
