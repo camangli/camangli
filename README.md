@@ -6,6 +6,7 @@
 - 🌱 I'm currently learning to be patient
 
 "Just ignore me. There's nothing here"
+
 [![CodeWars](https://www.codewars.com/users/camangli/badges/micro)]()
 
 # Find Me
